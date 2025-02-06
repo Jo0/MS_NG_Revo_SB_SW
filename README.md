@@ -10,10 +10,11 @@ y: -24
 
 
 BOM
-- 7 x M3 heatset inserts
+- 8 x M3 heatset inserts
   - 3 x Mounting the extruder main body
   - 2 x Mounting the Fan duct
   - 2 x Mounting FLY ADXL345
+  - 1 x Mounting the Clockwork Chain Guide
 - 7 x M3 8mm screws
   - 3 x NG Revo main body (I used stock screws)
   - 2 x NG Revo Fan Duct (I used stock screws)
