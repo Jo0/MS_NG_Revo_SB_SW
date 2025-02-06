@@ -20,15 +20,15 @@ BOM
   - 2 x FLY ADXL345 
 
 
-![BuildPlate View](/images/BuildPlate.png)
+![BuildPlate View](/Images/BuildPlate.png)
 
-![CR Touch Offset](/images/CRTouchOffset.png)
+![CR Touch Offset](/Images/CRTouchOffset.png)
 
-![Rendered Front View](/images/RenderedFront.png)
+![Rendered Front View](/Images/RenderedFront.png)
 
-![Rendered Side View](/images/RenderedSide.png)
+![Rendered Side View](/Images/RenderedSide.png)
 
-![InAction Front View](/images/InActionFront.jpg)
+![InAction Front View](/Images/InActionFront.jpg)
 
-![InAction Side View](/images/InActionSide.jpg)
+![InAction Side View](/Images/InActionSide.jpg)
 
