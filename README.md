@@ -2,7 +2,7 @@ I was already using a MicroSwiss NG prior to doing my SwitchWire conversion. So 
 
 Accomodates the stock Fan Duct and a FLY ADXL345
 
-**WARNING:** Use a flexible USB-C cable when using the ADXL345! A standard connector will interfere with the X Endstop Switch, might break your ADXL345 board and/or USB cable.
+# **WARNING:** Use a flexible USB-C cable when using the ADXL345! A standard connector will interfere with the X Endstop Switch, might break your ADXL345 board and/or USB cable.
 
 I'm also using the [CR Touch Stealthburner mount](https://github.com/prasadp4009/SW_SB_CRTouch) from [prasadp4009](https://github.com/prasadp4009)
 
